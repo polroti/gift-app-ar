@@ -1,2 +1,2 @@
-# gift-app-ar
- Web Based AR app for CTSE
+# AR Based Gift App
+* Web Based AR app for CTSE module
